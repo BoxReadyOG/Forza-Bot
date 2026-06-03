@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=BoxReady" alt="BoxReady Logo" width="150" height="150">
+ <img width="1024" height="1024" alt="boxready_logo_1780495153322" src="https://github.com/user-attachments/assets/86dd4ba8-25c8-44ae-a1d8-ce19570cc1fe" />
   <h1>Forza Horizon Undetected AFK Bot</h1>
   <p><strong>100% Ban-Safe | Multi-Language | Discord Webhooks</strong></p>
 </div>
